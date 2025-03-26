@@ -1,0 +1,7 @@
+C:\Users\victoria.pansini\Documents\Projetos\Exercicio02\bin\Debug\Exercicio02.exe.config
+C:\Users\victoria.pansini\Documents\Projetos\Exercicio02\bin\Debug\Exercicio02.exe
+C:\Users\victoria.pansini\Documents\Projetos\Exercicio02\bin\Debug\Exercicio02.pdb
+C:\Users\victoria.pansini\Documents\Projetos\Exercicio02\obj\Debug\Exercicio02.csproj.AssemblyReference.cache
+C:\Users\victoria.pansini\Documents\Projetos\Exercicio02\obj\Debug\Exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\victoria.pansini\Documents\Projetos\Exercicio02\obj\Debug\Exercicio02.exe
+C:\Users\victoria.pansini\Documents\Projetos\Exercicio02\obj\Debug\Exercicio02.pdb

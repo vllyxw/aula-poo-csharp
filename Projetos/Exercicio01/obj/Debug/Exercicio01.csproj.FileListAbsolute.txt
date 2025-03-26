@@ -1,0 +1,7 @@
+C:\Users\victoria.pansini\Documents\Projetos\Aluno\bin\Debug\Aluno.exe.config
+C:\Users\victoria.pansini\Documents\Projetos\Aluno\bin\Debug\Aluno.exe
+C:\Users\victoria.pansini\Documents\Projetos\Aluno\bin\Debug\Aluno.pdb
+C:\Users\victoria.pansini\Documents\Projetos\Aluno\obj\Debug\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\victoria.pansini\Documents\Projetos\Aluno\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\victoria.pansini\Documents\Projetos\Aluno\obj\Debug\Aluno.exe
+C:\Users\victoria.pansini\Documents\Projetos\Aluno\obj\Debug\Aluno.pdb
